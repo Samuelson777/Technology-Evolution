@@ -11,10 +11,7 @@ You can access the deployed app here: [Technology Evolution App](https://technol
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Technologies Section**: 
@@ -44,10 +41,7 @@ You can access the deployed app here: [Technology Evolution App](https://technol
 - **HTML/CSS**: For custom styling and layout.
 - **Python**: For backend logic and data management.
 
-## Installation
-To run the Technology Evolution App locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/technology-evolution-app.git
-   cd technology-evolution-app
+## Usage
+- Upon launching the app, you will see a title and an image representing technology evolution.
+- Use the sidebar to navigate between the Technologies and Seasons sections.
+- In the Technologies section, click on each technology to learn more about its significance and access additional resources.
