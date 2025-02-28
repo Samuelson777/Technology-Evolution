@@ -6,7 +6,7 @@ Welcome to the **Technology Evolution App**! This interactive web application al
 You can access the deployed app here: [Technology Evolution App](https://technology-evolution-qm4awkrufzn96tcsbqfdjb.streamlit.app/)
 
 ## Example Screenshot
-![Technology Evolution App Screenshot](https://github.com/user-attachments/assets/e29ad0de-e43c-4d91-ae37-ed0cd9e2019d)
+![Technology Evolution App Screenshot](https://github.com/user-attachments/assets/af6565dc-f7be-495c-a4fc-f1a4b5621d2c)
 
 ## Table of Contents
 - [Features](#features)
