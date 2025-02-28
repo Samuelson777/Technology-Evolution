@@ -13,7 +13,10 @@ st.markdown(
     .section-title {
         font-size: 30px;
         font-weight: bold;
-        color: #2196F3;
+        color: #FFFFFF; /* Changed to white for better contrast in dark mode */
+        background-color: #333; /* Added background color for contrast */
+        padding: 10px; /* Added padding for better appearance */
+        border-radius: 5px; /* Rounded corners */
         margin-top: 20px;
     }
     .description {
@@ -47,6 +50,21 @@ st.markdown(
         padding: 15px;
         margin: 10px 0;
         background-color: #f9f9f9;
+    }
+    @media (prefers-color-scheme: dark) {
+        .section-title {
+            color: #FFFFFF; /* Light color for dark mode */
+            background-color: #333; /* Dark background for contrast */
+        }
+        .description {
+            color: #FFFFFF; /* Light color for descriptions in dark mode */
+        }
+        .fun-fact {
+            color: #FF5722; /* Keep fun fact color */
+        }
+        .tech-card {
+            background-color: #444; /* Darker background for tech cards in dark mode */
+        }
     }
     </style>
     """,
