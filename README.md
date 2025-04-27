@@ -45,3 +45,6 @@ You can access the deployed app here: [Technology Evolution App](https://technol
 - Upon launching the app, you will see a title and an image representing technology evolution.
 - Use the sidebar to navigate between the Technologies and Seasons sections.
 - In the Technologies section, click on each technology to learn more about its significance and access additional resources.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Technology-Evolution/blob/main/LICENSE) file for details.
